@@ -1,1 +1,3 @@
-const 
+const returnFirstTwoDrivers = function (driverArr){
+  return
+}

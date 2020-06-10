@@ -4,6 +4,6 @@ const returnFirstTwoDrivers = function (arrOfDriver){
 }
 
 const returnLastTwoDrivers = function (arrOfDriver) {
-  let newArr = [arrOfDriver[0], arrOfDriver[1]];
+  let newArr = [arrOfDriver[arrOfDriver.length-2], arrOfDriver[arrOfDriver.length-1]];
   return newArr;
 }

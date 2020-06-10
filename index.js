@@ -13,3 +13,6 @@ let selectingDrivers = [
   returnLastTwoDrivers
 ];
 
+function createFareMultiplier(int) {
+  return 
+}

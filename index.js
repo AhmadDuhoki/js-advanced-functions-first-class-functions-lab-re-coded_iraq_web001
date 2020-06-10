@@ -1,3 +1,4 @@
 const returnFirstTwoDrivers = function (arrOfDriver){
-  return
+  let newArr = [arrOfDriver[0], arrOfDriver[1]];
+  return newArr;
 }

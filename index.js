@@ -18,3 +18,5 @@ function createFareMultiplier(int) {
     return int * fare;
   };
 }
+
+const

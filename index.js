@@ -15,6 +15,6 @@ let selectingDrivers = [
 
 function createFareMultiplier(int) {
   return function(fare){
-    
-  }
+    return int * fare;
+  };
 }
